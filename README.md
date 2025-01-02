@@ -1,4 +1,4 @@
 # myfirstproject
 this is my first GIT repository
 <br>
-Author - Vasu
+Author - Vasu (my project)
